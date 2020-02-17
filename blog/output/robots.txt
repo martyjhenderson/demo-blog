@@ -1,0 +1,4 @@
+Sitemap: https://demo.ravegrunt.is/sitemapindex.xml
+
+User-Agent: *
+Host: demo.ravegrunt.is
